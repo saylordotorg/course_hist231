@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST231: Empire and States in the Middle East and Southwest Asia"
+course_description: "An exploration of the political, economic, and social history of the Middle East and Southwest Asia, from the pre-Islamic period to WWI. Focuses on the impact of Islam and European imperialism in the region."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Ottoman Empire** <span id="6"></span> 
 *The collapse of the Abbasid Empire at the end of the 13<sup>th</sup>
 century enabled Turkish rulers in eastern Asia Minor to consolidate

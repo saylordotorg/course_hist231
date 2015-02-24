@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST231: Empire and States in the Middle East and Southwest Asia"
+course_description: "An exploration of the political, economic, and social history of the Middle East and Southwest Asia, from the pre-Islamic period to WWI. Focuses on the impact of Islam and European imperialism in the region."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Social and Cultural Impact of Islam** <span
 id="4"></span> 
 *Islam had a powerful social and cultural impact on the Middle East and

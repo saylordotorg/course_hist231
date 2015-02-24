@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST231: Empire and States in the Middle East and Southwest Asia"
+course_description: "An exploration of the political, economic, and social history of the Middle East and Southwest Asia, from the pre-Islamic period to WWI. Focuses on the impact of Islam and European imperialism in the region."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Islam and the Emergence of the Muslim State** <span
 id="2"></span> 
 *The emergence of Islam in Arabia during the 7<sup>th</sup> century CE

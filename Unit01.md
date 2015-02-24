@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST231: Empire and States in the Middle East and Southwest Asia"
+course_description: "An exploration of the political, economic, and social history of the Middle East and Southwest Asia, from the pre-Islamic period to WWI. Focuses on the impact of Islam and European imperialism in the region."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Pre-Islamic Peoples and Civilizations of the Middle East and
 Southeast Asia** <span id="1"></span> 
 *The Middle East is a truly ancient and complex region.  The oldest

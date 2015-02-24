@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST231: Empire and States in the Middle East and Southwest Asia"
+course_description: "An exploration of the political, economic, and social history of the Middle East and Southwest Asia, from the pre-Islamic period to WWI. Focuses on the impact of Islam and European imperialism in the region."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Umayyad and Abbasid Empires** <span id="3"></span> 
 *After the period called “Rightly Guided Caliphs,” the Umayyad Caliphate
 emerged in the mid-600s CE following a succession struggle among the
