@@ -177,3 +177,4 @@ etc.
 - [Unit 7](https://legacy.saylor.org/hist231/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist231/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist231/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST231/HIST231-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST231/HIST231-FinalExam-Answers.html)
