@@ -177,7 +177,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation's “Persia under the Safavid
     Empire and Beyond”**
     Link: The Saylor Foundation's “[Persia under the Safavid Empire and
-    Beyond](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-7-Persia-under-the-Safavid-Empire-and-Beyond-FINAL.pdf)”
+    Beyond](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-7-Persia-under-the-Safavid-Empire-and-Beyond-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -185,7 +185,7 @@ Upon successful completion of this unit, the student will be able to:
     for each question.  After completing this assessment, please check
     your responses against the Saylor Foundation’s “[Guide to Responding
     to Persia under the Safavid Empire and
-    Beyond](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-7-Guide-to-Responding-to-Persia-under-the-Safavid-Empire-and-Beyond-FINAL.pdf).”(PDF) 
+    Beyond](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-7-Guide-to-Responding-to-Persia-under-the-Safavid-Empire-and-Beyond-FINAL.pdf).”(PDF) 
     Your answers should contain, but not be limited to, the information
     provided in the answer sheet.  This assessment should take
     approximately 3 hours to complete.

@@ -351,7 +351,7 @@ Upon successful completion of this unit, the student will be able to:
     Middle East and Southwest Asia"**
     Link: The Saylor Foundation's "[Ancient Civilization of the Middle
     East and Southwest
-    Asia](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unti-1-Ancient-Civilizations-of-Middle-East-and-Southwest-Asia-FINAL.pdf)”
+    Asia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unti-1-Ancient-Civilizations-of-Middle-East-and-Southwest-Asia-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -360,7 +360,7 @@ Upon successful completion of this unit, the student will be able to:
     answers against the sample answers provided in the Saylor
     Foundation's "[Ancient Civilizations of the Middle East and
     Southeast Asia Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unti-1-Ancient-Civilizations-of-Middle-East-and-Southwest-Asia-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unti-1-Ancient-Civilizations-of-Middle-East-and-Southwest-Asia-Answer-Key-FINAL.pdf)."
     (PDF)  Your answers should contain, but not be limited to, the
     information provided in the answer sheet.  Feel free to expand on
     your answers to include material that goes beyond what is in the
