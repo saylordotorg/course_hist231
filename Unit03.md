@@ -162,7 +162,7 @@ id="3.2.2"></span> 
 -   **Assessment: The Saylor Foundation's “The Umayyad and the Abbasid
     Empires”**
     Link: The Saylor Foundation's “[The Umayyad and the Abbasid
-    Empires](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-3-The-Umayyads-and-the-Abbasids-FINAL.pdf)”
+    Empires](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-3-The-Umayyads-and-the-Abbasids-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -170,7 +170,7 @@ id="3.2.2"></span> 
     for each question.  After completing this assessment, please check
     your responses against the Saylor Foundation’s “[Guide to Responding
     to the Umayyad and the Abbasid
-    Empires.](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-3-Guide-to-Responding-to-The-Umayyads-and-the-Abbasids-FINAL.pdf)”
+    Empires.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-3-Guide-to-Responding-to-The-Umayyads-and-the-Abbasids-FINAL.pdf)”
     (PDF) Your answers should contain, but not be limited to, the
     information provided in the answer sheet.  This assessment should
     take approximately 3 hours to complete.

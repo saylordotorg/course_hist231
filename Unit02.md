@@ -218,7 +218,7 @@ in the Islamic Web’s “The Rightly Guided Caliphs” reading.*
     the Muslim States"**
     Link: The Saylor Foundation's “[Islam and the Emergence of the
     Muslim
-    States](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-2-Islam-and-the-Emergence-of-the-Muslim-States-FINAL.pdf)”
+    States](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-2-Islam-and-the-Emergence-of-the-Muslim-States-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -226,7 +226,7 @@ in the Islamic Web’s “The Rightly Guided Caliphs” reading.*
     After completing this assessment, please check your responses
     against the Saylor Foundation’s “[Guide to Responding to Islam and
     the Emergence of the Muslim
-    States.](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-2-Guide-to-Responding-to-Islam-and-the-Emergence-of-the-Muslim-States-FINAL.pdf)”
+    States.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-2-Guide-to-Responding-to-Islam-and-the-Emergence-of-the-Muslim-States-FINAL.pdf)”
     (PDF)  Your answers should contain, but not be limited to, the
     information provided in the answer guide.  This assessment should
     take approximately 3 hours to complete.

@@ -296,7 +296,7 @@ id="8.3.3"></span> 
 -   **Assessment: The Saylor Foundation's “European Imperialism and the
     Middle East”**
     Link: The Saylor Foundation's “[European Imperialism and the Middle
-    East](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-8-European-Imperialism-and-the-Middle-East-FINAL.pdf)”
+    East](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-8-European-Imperialism-and-the-Middle-East-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -304,7 +304,7 @@ id="8.3.3"></span> 
     for each question.  After completing this assessment, please check
     your responses against the Saylor Foundation’s “[Guide to Responding
     to European Imperialism and the Middle
-    East](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST231-Unit-8-Guide-to-Responding-to-European-Imperialism-and-the-Middle-East-V2.pdf).”
+    East](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST231-Unit-8-Guide-to-Responding-to-European-Imperialism-and-the-Middle-East-V2.pdf).”
     (PDF) Your answers should contain, but not be limited to, the
     information provided in the answer sheet.  This assessment should
     take approximately 3 hours to complete.
